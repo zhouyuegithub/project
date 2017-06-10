@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/saveresult/bin/CMakeFiles/ADDCOLOR.dir
+C:/Users/Administrator/Desktop/saveresult/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/saveresult/bin/CMakeFiles/ZERO_CHECK.dir
