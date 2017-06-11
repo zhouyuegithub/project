@@ -1,0 +1,13 @@
+cmake_minimum_required(VERSION 2.8)
+ 
+project(SHOW3DCOLOR)
+ 
+find_package(VTK REQUIRED)
+find_package( ITK REQUIRED )
+ 
+INCLUDE(${VTK_USE_FILE} )
+INCLUDE( ${ITK_USE_FILE} )
+ 
+ADD_EXECUTABLE(SHOW3DCOLOR show3dcolor.cpp p.h)
+ 
+TARGET_LINK_LIBRARIES(SHOW3DCOLOR ${ITK_LIBRARIES}  ${VTK_LIBRARIES})

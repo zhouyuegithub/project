@@ -1,0 +1,3 @@
+C:/Users/Administrator/Desktop/result/project/showresultvtk/bin/CMakeFiles/SHOW3DCOLOR.dir
+C:/Users/Administrator/Desktop/result/project/showresultvtk/bin/CMakeFiles/ALL_BUILD.dir
+C:/Users/Administrator/Desktop/result/project/showresultvtk/bin/CMakeFiles/ZERO_CHECK.dir
